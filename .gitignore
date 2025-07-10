@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# IDE settings
+.idea/
+.vscode/
+
+# Jupyter Notebooks (optional)
+*.ipynb
+
+# Cluster YAMLs if not using in GitOps
+nginx-deployment.yaml
